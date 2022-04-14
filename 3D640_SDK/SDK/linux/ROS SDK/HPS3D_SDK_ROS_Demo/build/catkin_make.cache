@@ -1,0 +1,2 @@
+hps_camera
+-DCATKIN_DEVEL_PREFIX=/home/lance/HPS3D_SDK_ROS_Demo/devel -DCMAKE_INSTALL_PREFIX=/home/lance/HPS3D_SDK_ROS_Demo/install -G Unix Makefiles

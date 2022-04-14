@@ -1,0 +1,38 @@
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe.config
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.pdb
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Form1.resources
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.exe
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.pdb
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe.config
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.exe
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.pdb
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Form1.resources
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe
+C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.pdb
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe.config
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.exe
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\bin\x64\Debug\HPS3D_DEMO.pdb
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csprojAssemblyReference.cache
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Form1.resources
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.Properties.Resources.resources
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csproj.GenerateResource.cache
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.csproj.CoreCompileInputs.cache
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.exe
+E:\3D640_SDK\SDK_V1.0.1\windows\C# SDK\HPS3D_DEMO_C#\HPS3D_DEMO\obj\x64\Debug\HPS3D_DEMO.pdb

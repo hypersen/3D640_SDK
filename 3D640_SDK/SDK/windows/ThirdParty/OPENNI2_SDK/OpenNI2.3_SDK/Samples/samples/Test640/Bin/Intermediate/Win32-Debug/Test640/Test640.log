@@ -1,0 +1,5 @@
+﻿  Test640.cpp
+e:\openni2_sdk\samples\samples\test640\test640.cpp(61): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\openni2_sdk\samples\samples\test640\test640.cpp(62): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Test640.vcxproj -> E:\OpenNI2_SDK\Samples\samples\Test640\Bin\Win32-Debug\Test640.exe
+  Test640.vcxproj -> E:\OpenNI2_SDK\Samples\samples\Test640\Bin\Win32-Debug\Test640.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  Test640.cpp
+Test640.cpp(61): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Test640.cpp(62): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  2 of 106 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Test640.vcxproj -> E:\OpenNI2_SDK\Samples\samples\Test640\Bin\x64-Release\Test640.exe
+  Test640.vcxproj -> E:\OpenNI2_SDK\Samples\samples\Test640\Bin\x64-Release\Test640.pdb (Full PDB)

@@ -1,0 +1,24 @@
+﻿  640Viewer.cpp
+  Capture.cpp
+  Device.cpp
+  Draw.cpp
+E:\OpenNI2_SDK\Samples\samples\ThirdParty\XnLib\Include\XnMath.h(38): warning C4244: “return”: 从“double”转换到“XnFloat”，可能丢失数据
+E:\OpenNI2_SDK\Samples\samples\ThirdParty\XnLib\Include\XnMath.h(51): warning C4244: “return”: 从“double”转换到“XnFloat”，可能丢失数据
+Draw.cpp(158): warning C4838: 从“double”转换到“float”需要收缩转换
+  Keyboard.cpp
+  Menu.cpp
+  MouseInput.cpp
+E:\OpenNI2_SDK\Samples\samples\ThirdParty\XnLib\Include\XnMath.h(38): warning C4244: “return”: 从“double”转换到“XnFloat”，可能丢失数据
+E:\OpenNI2_SDK\Samples\samples\ThirdParty\XnLib\Include\XnMath.h(51): warning C4244: “return”: 从“double”转换到“XnFloat”，可能丢失数据
+  正在生成代码
+  All 659 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+XnLib.lib(XnStrings.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnStrings.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+XnLib.lib(XnWin32Files.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnWin32Files.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+XnLib.lib(XnWin32Time.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnWin32Time.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+XnLib.lib(XnFiles.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnFiles.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+XnLib.lib(XnStatus.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnStatus.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+XnLib.lib(XnWin32Strings.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnWin32Strings.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+XnLib.lib(XnWin32Memory.obj) : warning LNK4099: 未找到 PDB“XnLib.pdb”(使用“XnLib.lib(XnWin32Memory.obj)”或在“E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\XnLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  640Viewer.vcxproj -> E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\640Viewer.exe
+  640Viewer.vcxproj -> E:\OpenNI2_SDK\Samples\samples\640Viewer\Bin\x64-Release\640Viewer.pdb (Full PDB)

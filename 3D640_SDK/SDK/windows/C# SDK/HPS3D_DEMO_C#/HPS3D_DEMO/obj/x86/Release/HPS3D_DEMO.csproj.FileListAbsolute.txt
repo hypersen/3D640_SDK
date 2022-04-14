@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\bin\x86\Release\HPS3D_DEMO.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\bin\x86\Release\HPS3D_DEMO.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\bin\x86\Release\HPS3D_DEMO.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x86\Release\HPS3D_DEMO.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x86\Release\HPS3D_DEMO.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x86\Release\HPS3D_DEMO.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x86\Release\HPS3D_DEMO.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x86\Release\HPS3D_DEMO.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\HPS3D_DEMO\HPS3D_DEMO\obj\x86\Release\HPS3D_DEMO.Form1.resources

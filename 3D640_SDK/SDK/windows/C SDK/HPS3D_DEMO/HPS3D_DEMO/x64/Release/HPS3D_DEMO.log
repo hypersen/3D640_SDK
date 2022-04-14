@@ -1,0 +1,18 @@
+﻿  HPS3D_DEMO.cpp
+HPS3D_DEMO.cpp(118): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“float64_t *”
+HPS3D_DEMO.cpp(118): warning C4313: “printf”: 格式字符串中的“%d”与“float64_t *”类型的参数 2 冲突
+HPS3D_DEMO.cpp(128): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“float64_t *”
+HPS3D_DEMO.cpp(128): warning C4313: “printf”: 格式字符串中的“%d”与“float64_t *”类型的参数 2 冲突
+HPS3D_DEMO.cpp(141): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“float64_t *”
+HPS3D_DEMO.cpp(141): warning C4313: “printf”: 格式字符串中的“%d”与“float64_t *”类型的参数 2 冲突
+HPS3D_DEMO.cpp(151): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“float64_t *”
+HPS3D_DEMO.cpp(151): warning C4313: “printf”: 格式字符串中的“%d”与“float64_t *”类型的参数 2 冲突
+HPS3D_DEMO.cpp(183): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“float64_t *”
+HPS3D_DEMO.cpp(183): warning C4313: “printf”: 格式字符串中的“%d”与“float64_t *”类型的参数 2 冲突
+  正在生成代码
+  8 of 10 functions (80.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HPS3D_DEMO.vcxproj -> C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C SDK\HPS3D_DEMO\x64\Release\HPS3D_DEMO.exe
+  HPS3D_DEMO.vcxproj -> C:\Users\Administrator\Desktop\3D640_SDK\SDK_V1.0.0\C SDK\HPS3D_DEMO\x64\Release\HPS3D_DEMO.pdb (Full PDB)
